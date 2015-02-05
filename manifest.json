@@ -12,7 +12,6 @@
   "default_locale": "en",
   "options_page": "src/options_custom/index.html",
   "permissions": [
-    "tabs",
     "activeTab",
     "https://twitch.tv/*",
     "http://twitch.tv/*",
@@ -28,7 +27,7 @@
         "http://www.twitch.tv/*"
       ],
       "js": [
-        "src/inject/inject.js", "src/inject/linkAdder.js"
+        "src/inject/inject.js"
       ]
     }
   ]
