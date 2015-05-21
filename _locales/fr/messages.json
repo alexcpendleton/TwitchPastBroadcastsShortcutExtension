@@ -1,0 +1,10 @@
+{
+  "injectableHtml": {
+    "message":"<span class='tbps-dash'>—</span> <a class='tbps-anchor' href='{0}/past_broadcasts'>{1}</a>",
+    "description":"Inner HTML for the TPBS node added to the page. {0}=profile link uri; {1}={anchorText}"
+  },
+  "anchorText": {
+    "message":"Diffusions précédentes",
+    "description":"The text displayed for the 'Past Broadcasts' anchor put onto the page. Used in {injectableHtml} as replacement {1}."
+  }
+}
