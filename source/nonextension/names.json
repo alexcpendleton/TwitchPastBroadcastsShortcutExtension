@@ -1,0 +1,142 @@
+[
+  {
+    "abbr": "da",
+    "onclickText": "Twitch.language.setByAsyncPut('da'); Twitch.language.setCookieAndReload('da');",
+    "pbt": "Predchádzajúce vysielania"
+  },
+  {
+    "abbr": "de",
+    "onclickText": "Twitch.language.setByAsyncPut('de'); Twitch.language.setCookieAndReload('de');",
+    "pbt": "Frühere Übertragungen"
+  },
+  {
+    "abbr": "en",
+    "onclickText": "Twitch.language.setByAsyncPut('en'); Twitch.language.setCookieAndReload('en');",
+    "pbt": "Past Broadcasts"
+  },
+  {
+    "abbr": "es",
+    "onclickText": "Twitch.language.setByAsyncPut('es'); Twitch.language.setCookieAndReload('es');",
+    "pbt": "Retransmisiones anteriores"
+  },
+  {
+    "abbr": "es-mx",
+    "onclickText": "Twitch.language.setByAsyncPut('es-mx'); Twitch.language.setCookieAndReload('es-mx');",
+    "pbt": "Transmisiones anteriores"
+  },
+  {
+    "abbr": "fr",
+    "onclickText": "Twitch.language.setByAsyncPut('fr'); Twitch.language.setCookieAndReload('fr');",
+    "pbt": "Diffusions précédentes"
+  },
+  {
+    "abbr": "it",
+    "onclickText": "Twitch.language.setByAsyncPut('it'); Twitch.language.setCookieAndReload('it');",
+    "pbt": "Trasmissioni passate"
+  },
+  {
+    "abbr": "hu",
+    "onclickText": "Twitch.language.setByAsyncPut('hu'); Twitch.language.setCookieAndReload('hu');",
+    "pbt": "Régebbi közvetítések"
+  },
+  {
+    "abbr": "nl",
+    "onclickText": "Twitch.language.setByAsyncPut('nl'); Twitch.language.setCookieAndReload('nl');",
+    "pbt": "Uitzendingen uit het verleden"
+  },
+  {
+    "abbr": "no",
+    "onclickText": "Twitch.language.setByAsyncPut('no'); Twitch.language.setCookieAndReload('no');",
+    "pbt": "Tidligere kringkastinger"
+  },
+  {
+    "abbr": "pl",
+    "onclickText": "Twitch.language.setByAsyncPut('pl'); Twitch.language.setCookieAndReload('pl');",
+    "pbt": "Poprzednie transmisje"
+  },
+  {
+    "abbr": "pt",
+    "onclickText": "Twitch.language.setByAsyncPut('pt'); Twitch.language.setCookieAndReload('pt');",
+    "pbt": "Transmissões anteriores"
+  },
+  {
+    "abbr": "pt-br",
+    "onclickText": "Twitch.language.setByAsyncPut('pt-br'); Twitch.language.setCookieAndReload('pt-br');",
+    "pbt": "Transmissões anteriores"
+  },
+  {
+    "abbr": "sk",
+    "onclickText": "Twitch.language.setByAsyncPut('sk'); Twitch.language.setCookieAndReload('sk');",
+    "pbt": "Predchádzajúce vysielania"
+  },
+  {
+    "abbr": "fi",
+    "onclickText": "Twitch.language.setByAsyncPut('fi'); Twitch.language.setCookieAndReload('fi');",
+    "pbt": "Vanhat lähetykset"
+  },
+  {
+    "abbr": "sv",
+    "onclickText": "Twitch.language.setByAsyncPut('sv'); Twitch.language.setCookieAndReload('sv');",
+    "pbt": "Tidigare sändningar"
+  },
+  {
+    "abbr": "vi",
+    "onclickText": "Twitch.language.setByAsyncPut('vi'); Twitch.language.setCookieAndReload('vi');",
+    "pbt": "Chương trình cũ"
+  },
+  {
+    "abbr": "tr",
+    "onclickText": "Twitch.language.setByAsyncPut('tr'); Twitch.language.setCookieAndReload('tr');",
+    "pbt": "Geçmiş Yayınlar"
+  },
+  {
+    "abbr": "cs",
+    "onclickText": "Twitch.language.setByAsyncPut('cs'); Twitch.language.setCookieAndReload('cs');",
+    "pbt": "Starší vysílání"
+  },
+  {
+    "abbr": "el",
+    "onclickText": "Twitch.language.setByAsyncPut('el'); Twitch.language.setCookieAndReload('el');",
+    "pbt": "Παλαιότερες μεταδόσεις"
+  },
+  {
+    "abbr": "bg",
+    "onclickText": "Twitch.language.setByAsyncPut('bg'); Twitch.language.setCookieAndReload('bg');",
+    "pbt": "Минали излъчвания"
+  },
+  {
+    "abbr": "ru",
+    "onclickText": "Twitch.language.setByAsyncPut('ru'); Twitch.language.setCookieAndReload('ru');",
+    "pbt": "Прошлые трансляции"
+  },
+  {
+    "abbr": "ar",
+    "onclickText": "Twitch.language.setByAsyncPut('ar'); Twitch.language.setCookieAndReload('ar');",
+    "pbt": "البث السابق"
+  },
+  {
+    "abbr": "th",
+    "onclickText": "Twitch.language.setByAsyncPut('th'); Twitch.language.setCookieAndReload('th');",
+    "pbt": "รายการถ่ายทอดสดในอดีต"
+  },
+  {
+    "abbr": "zh-cn",
+    "onclickText": "Twitch.language.setByAsyncPut('zh-cn'); Twitch.language.setCookieAndReload('zh-cn');",
+    "pbt": "以往直播"
+  },
+  {
+    "abbr": "zh-tw",
+    "onclickText": "Twitch.language.setByAsyncPut('zh-tw'); Twitch.language.setCookieAndReload('zh-tw');",
+    "pbt": "之前的直播"
+  },
+  {
+    "abbr": "ja",
+    "onclickText": "Twitch.language.setByAsyncPut('ja'); Twitch.language.setCookieAndReload('ja');",
+    "pbt": "過去の配信"
+  },
+  {
+    "abbr": "ko",
+    "onclickText": "Twitch.language.setByAsyncPut('ko'); Twitch.language.setCookieAndReload('ko');",
+    "pbt": "過去の配信"
+  }
+]
