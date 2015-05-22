@@ -12,7 +12,7 @@ MessageBuilder.prototype.doit = function() {
     var item = names[i];
     if(item.abbr != "en") {
       var output = templateFileContents.replace('"Past Broadcasts"', '"' + item.pbt + '"');
-      var outdir = "../_locales/" + item.abbr + "/";
+      var outdir = "../_locales/" + item.abbr.replace("-","_") + "/";
       var outpath = outdir + "messages.json";
       if(!fs.existsSync(outdir)) {
         fs.mkdirSync(outdir);
